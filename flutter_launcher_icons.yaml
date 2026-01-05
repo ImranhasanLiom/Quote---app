@@ -1,0 +1,18 @@
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "asset/images/quoteapp image.webp"
+
+  # Android adaptive icon settings
+  adaptive_icon_background: "#4A148C"
+  adaptive_icon_foreground: "asset/images/quoteapp image.webp"
+
+  # iOS settings
+  remove_alpha_ios: true
+
+  # Web settings
+  web:
+    generate: true
+    image_path: "asset/images/quoteapp image.webp"
+    background_color: "#4A148C"
+    theme_color: "#4A148C"
